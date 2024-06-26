@@ -1,0 +1,84 @@
+{
+    "Autor": [
+        {
+            "Nombre": "Gabriel Garc\u00eda M\u00e1rquez",
+            "Libros_prestados": 0
+        },
+        {
+            "Nombre": "Isabel Allende",
+            "Libros_prestados": 0
+        },
+        {
+            "Nombre": "Julio Cort\u00e1zar",
+            "Libros_prestados": 0
+        },
+        {
+            "Nombre": "Mario Vargas Llosa",
+            "Libros_prestados": 0
+        },
+        {
+            "Nombre": "Carlos Ruiz Zaf\u00f3n",
+            "Libros_prestados": 5
+        },
+        {
+            "Nombre": "Jorge Luis Borges",
+            "Libros_prestados": 2
+        },
+        {
+            "Nombre": "Miguel de Cervantes",
+            "Libros_prestados": 1
+        },
+        {
+            "Nombre": "Pablo Neruda",
+            "Libros_prestados": 7
+        },
+        {
+            "Nombre": "Federico Garc\u00eda Lorca",
+            "Libros_prestados": 1
+        },
+        {
+            "Nombre": "Octavio Paz",
+            "Libros_prestados": 2
+        },
+        {
+            "Nombre": "Gabriel Garc\u00eda M\u00e1rquez",
+            "Libros_prestados": 1
+        },
+        {
+            "Nombre": "Isabel Allende",
+            "Libros_prestados": 1
+        },
+        {
+            "Nombre": "Julio Cort\u00e1zar",
+            "Libros_prestados": 1
+        },
+        {
+            "Nombre": "Mario Vargas Llosa",
+            "Libros_prestados": 1
+        },
+        {
+            "Nombre": "Carlos Ruiz Zaf\u00f3n",
+            "Libros_prestados": 1
+        },
+        {
+            "Nombre": "Jorge Luis Borges",
+            "Libros_prestados": 2
+        },
+        {
+            "Nombre": "Miguel de Cervantes",
+            "Libros_prestados": 1
+        },
+        {
+            "Nombre": "Pablo Neruda",
+            "Libros_prestados": 1
+        },
+        {
+            "Nombre": "Federico Garc\u00eda Lorca",
+            "Libros_prestados": 2
+        },
+        {
+            "Nombre": "Octavio Paz",
+            "Libros_prestados": 3
+        }
+    ]
+}
